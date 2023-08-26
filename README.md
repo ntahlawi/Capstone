@@ -1,4 +1,4 @@
-<img src="https://github.com/ntahlawi/SpaceX/blob/main/Screenshot%202023-08-26%20at%205.30.23%20AM.png">
+<img src="https://github.com/ntahlawi/Capstone/blob/main/Screenshot%202023-08-26%20at%205.30.23%20AM.png">
 
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone/alerts/)
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone/context:python)
