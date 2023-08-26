@@ -1,4 +1,4 @@
-<img src="https://github.com/farishelmi17/SpaceX/blob/main/Screen%20Shot%202022-04-16%20at%2011.01.08%20PM.png">
+<img src="https://github.com/farishelmi17/SpaceX/blob/main/Screenshot%202023-08-26%20at%205.30.23%20AM.png">
 
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone/alerts/)
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone/context:python)
@@ -23,4 +23,3 @@ SpaceX is a revolutionary company who has disrupt the space industry by offering
 ### Acknowledgements 
 
 ##### © Copyright IBM Corporation 1994, 2022.
-##### © Muhammad Faris Kamal 2022
